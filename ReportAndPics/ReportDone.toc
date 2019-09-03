@@ -1,0 +1,21 @@
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{}
+\tocdepth@restore 
+\contentsline {section}{\numberline {1}Introduction}{2}{}
+\contentsline {section}{\numberline {2}Umbrella Sampling, WHAM and Bootstrapping}{2}{}
+\contentsline {subsection}{\numberline {A}WHAM}{3}{}
+\contentsline {subsection}{\numberline {B}Bootstrapping}{3}{}
+\contentsline {section}{\numberline {3}Structures and Simulation Methods}{4}{}
+\contentsline {subsection}{\numberline {A}Structures and Equilibration}{4}{}
+\contentsline {subsubsection}{\numberline {1}$\alpha $ - helix}{4}{}
+\contentsline {subsubsection}{\numberline {2}$\beta $-hairpin}{6}{}
+\contentsline {subsection}{\numberline {B}Simulations}{6}{}
+\contentsline {subsubsection}{\numberline {1}Pulling}{7}{}
+\contentsline {subsubsection}{\numberline {2}Umbrella Sampling}{7}{}
+\contentsline {section}{\numberline {4}Results and Discussion}{8}{}
+\contentsline {subsection}{\numberline {A}Pulling Simulations}{8}{}
+\contentsline {subsection}{\numberline {B}Umbrella Sampling Simulations}{12}{}
+\contentsline {subsubsection}{\numberline {1}$\alpha $ - helix}{12}{}
+\contentsline {subsubsection}{\numberline {2}$\beta $-hairpin}{16}{}
+\contentsline {section}{\numberline {5}Conclusions}{20}{}
+\contentsline {section}{\numberline {}References}{21}{}
